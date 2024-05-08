@@ -21,3 +21,4 @@ this.
 
 What is the time complexity of your implementation (worst-case $\Theta$)? Add
 your answer, including your reasoning, to this markdown file.
+Since this is still single threaded, the $\Theta$ would be $\Theta(n)$ as it iterates through the array once counting the number of values.
